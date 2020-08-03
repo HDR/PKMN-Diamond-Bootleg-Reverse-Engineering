@@ -16,4 +16,9 @@ Some sort of bank controller? (covered in epoxy)
 
 
 ## Pinout
-To be added
+
+Pins are numbered according to the image
+
+![](Back Numbered Pads.png)
+
+Pinout to be added
