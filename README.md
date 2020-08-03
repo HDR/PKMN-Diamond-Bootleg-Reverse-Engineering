@@ -19,6 +19,6 @@ Some sort of bank controller? (covered in epoxy)
 
 Pins are numbered according to the image
 
-![pads](https://github.com/HDR/PKMN-Diamond-Bootleg-Reverse-Engineering/blob/master/Back Numbered Pads.png?raw=true)
+![pads](BackNumbered.png)
 
 Pinout to be added
