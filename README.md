@@ -73,6 +73,6 @@ Pins are numbered according to the image
 | 46 | CLK/A24/F-VPP/F-WP/F-RST | 3.3V/Pin 3 |  |
 | 47 | A9 |  |  |
 | 48 | A4 |  |  |
-| 49 | A5 |  |  |
+| 49 | A3 |  |  |
 | 50 | A1 |  |  |
 | 51 | GND | GND | Pin 4 |
