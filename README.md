@@ -75,4 +75,4 @@ Pins are numbered according to the image
 | 48 | A4 |  |  |
 | 49 | A3 |  |  |
 | 50 | A1 |  |  |
-| 51 | GND | GND | Pin 4 |
+| 51 | NC | CS2 | Pin 1 |
