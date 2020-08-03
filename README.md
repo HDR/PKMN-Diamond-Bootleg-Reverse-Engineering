@@ -27,7 +27,7 @@ Pins are numbered according to the image
 |-|-|-|-|
 | 1 | NC | CLK | Pin 7 |
 | 2 | NC | D7 | Pin 8 |
-| 3 | NC | D6 | Pin2 |
+| 3 | NC | D6 | Pin 2 |
 | 4 | F1-OE/F2-OE | NC |  |
 | 5 | D8 |  |  |
 | 6 | D5 |  |  |
